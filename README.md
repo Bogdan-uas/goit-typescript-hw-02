@@ -1,3 +1,3 @@
-# goit-react-hw-04
+# goit-typescript-hw-02
 
-I just wanna be part of the symphony
+My second and already the last project on Typescript. Sad!😢

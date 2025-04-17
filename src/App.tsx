@@ -1,4 +1,4 @@
-import './App.css'
+import './App.module.css'
 
 import ImageGallery from './components/ImageGallery/ImageGallery.jsx';
 import SearchBar from './components/SearchBar/SearchBar.jsx';

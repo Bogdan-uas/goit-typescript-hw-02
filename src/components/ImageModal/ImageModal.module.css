@@ -3,3 +3,9 @@
     letter-spacing: 0.04em;
     color: #2e2f42;
 }
+
+.overlay {
+    inset: 0;
+    position: fixed;
+    background-color: rgba(129, 129, 129, 0.455);
+}
